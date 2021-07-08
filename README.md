@@ -23,6 +23,6 @@
 
 ### Developers:
 
-- [kiku](https://t.me/kiku_seller)
+- [kiku](https://t.me/kikubots)
 
-- [networks](https://t.me/kiku_networks)
+- [networks](https://t.me/Teamkiku)
