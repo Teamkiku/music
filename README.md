@@ -1,3 +1,10 @@
+## Support 🚑
+<a href="https://t.me/TgxSupportChat"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Tgxbots"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+
+
+
+
 # Telegram Song Download Bot ❤
 
 ## You can download any song using this bot. Can be found in telegram as [SongBot](https://t.me/Music_Song_robot)
